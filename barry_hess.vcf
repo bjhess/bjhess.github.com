@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hess;Barry;;;
+FN:Barry Hess
+EMAIL;type=INTERNET;type=HOME;type=pref:barry@bjhess.com
+TEL;type=HOME;type=pref:507 4510699
+item1.ADR;type=HOME;type=pref:;;;;MN;55060;United States
+item1.X-ABADR:us
+X-ABUID:30EE47F0-A5C4-44B7-9AD7-74D1088DA14A\:ABPerson
+END:VCARD
